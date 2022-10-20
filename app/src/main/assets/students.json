@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "first_name": "Иван",
+    "middle_name": "Олегович",
+    "last_name": "Яценко",
+    "age": 20,
+    "sex": "Мужской",
+    "faculty_name": "ФКТиПМ"
+  },
+  {
+    "id": 2,
+    "first_name": "Алиса",
+    "middle_name": "Евгеньевна",
+    "last_name": "Костенко",
+    "age": 19,
+    "sex": "Женский",
+    "faculty_name": "ФИСМО"
+  },
+  {
+    "id": 3,
+    "first_name": "Ольга",
+    "middle_name": "Арсеновна",
+    "last_name": "Аракян",
+    "age": 21,
+    "sex": "Женский",
+    "faculty_name": "ФМиКН"
+  },
+  {
+    "id": 4,
+    "first_name": "Никита",
+    "middle_name": "Андреевич",
+    "last_name": "Трегуб",
+    "age": 23,
+    "sex": "Мужской",
+    "faculty_name": "ФКТиПМ"
+  },
+  {
+    "id": 5,
+    "first_name": "Александра",
+    "middle_name": "Витальевна",
+    "last_name": "Недайвода",
+    "age": 17,
+    "sex": "Женский",
+    "faculty_name": "ФКТиПМ"
+  },
+  {
+    "id": 6,
+    "first_name": "Василий",
+    "middle_name": "Викторович",
+    "last_name": "Ломоносов",
+    "age": 18,
+    "sex": "Мужской",
+    "faculty_name": "ФИСМО"
+  },
+  {
+    "id": 7,
+    "first_name": "Савелий",
+    "middle_name": "Антонович",
+    "last_name": "Дмитриев",
+    "age": 18,
+    "sex": "Мужкой",
+    "faculty_name": "РГФ"
+  },
+  {
+    "id": 8,
+    "first_name": "Мария",
+    "middle_name": "Борисовна",
+    "last_name": "Дробяцкая",
+    "age": 20,
+    "sex": "Женский",
+    "faculty_name": "РГФ"
+  },
+  {
+    "id": 9,
+    "first_name": "Алексей",
+    "middle_name": "Иванович",
+    "last_name": "Василенко",
+    "age": 20,
+    "sex": "Мужской",
+    "faculty_name": "ФППК"
+  },
+  {
+    "id": 10,
+    "first_name": "Марина",
+    "middle_name": "Арутюновна",
+    "last_name": "Геворкян",
+    "age": 20,
+    "sex": "Женский",
+    "faculty_name": "ФППК"
+  }
+]

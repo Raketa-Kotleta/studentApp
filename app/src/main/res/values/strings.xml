@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StudentApp</string>
+    <string name="student_json_path"></string>
+    <string name="faculties_json_path"></string>
+    <string name="next_btn">Next</string>
+    <string name="prev_btn">Prev</string>
+    <string name="student_add_btn">Add</string>
+    <string name="student_edit_btn">Edit</string>
+    <string name="student_drop_btn">Drop</string>
+    <string name="first_name_placeholder">Имя</string>
+    <string name="middle_name_placeholder">Отчество</string>
+    <string name="last_name_placeholder">Фамилия</string>
+    <string name="age_placeholder">Возраст</string>
+    <string name="sex_placeholder">Пол</string>
+    <string name="faculty_placeholder">Факультет</string>
+</resources>
